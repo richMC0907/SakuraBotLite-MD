@@ -1,8 +1,8 @@
 > 🚩🧿Versión Del Bot: 1.0.7
 
-### Sakura : Bot - Lite - MD 🌸
+### Sakura : Bot - 🌸
 <p align="center">
-<img src="https://telegra.ph/file/9379ac50c5285dc976e2e.png" alt="Bot-WhatsApp" width="900"/>
+<img src="[https://telegra.ph/file/9379ac50c5285dc976e2e](https://www.google.com/search?q=temch&client=tablet-android-xiaomi-terr1-rso2&sca_esv=0bc39af9d1d15b37&sca_upv=1&biw=703&bih=1610&udm=2&sxsrf=ACQVn0_HyvZSqKr3UoRCh9uJjJzB5kURVg:1713113885278&source=lnms&ved=1t:200715&ictx=111#vhid=bovBR3mWLQD6WM&vssid=mosaic).png" alt="Bot-WhatsApp" width="900"/>
 </p>
 
 ### <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Prueba El Bot Aqui" width="42" height="42"> Prueba El Bot Aqui
